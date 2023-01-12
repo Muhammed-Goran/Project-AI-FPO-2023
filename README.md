@@ -1,4 +1,4 @@
-# Rocket-Landing-Simulator-FPO-2023
+# Project AI-FPO-2023
 this simulator is not a 100% accurate
                                       
                                       
